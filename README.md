@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Implementing the dark mode feature served the most challenging part for me. Now I have a much better understanding of how the View Controller Lifecycle works.
+Honestly... everything not part of the tutorial. I spent a lot of my time reading documentation, Stack Overflow, looking at other code and figuring out how it works. Out of the features, implementing the dark mode feature served the most challenging part for me. Now I have a much better understanding of how the View Controller Lifecycle works.
 
 ## License
 
