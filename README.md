@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing the dark mode feature served the most challenging part for me. Now I have a much better understanding of how the View Controller Lifecycle works.
 
 ## License
 
